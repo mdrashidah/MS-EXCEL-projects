@@ -5,9 +5,7 @@
 
 -
 A comprehensive collection of Microsoft Excel projects showcasing advanced data analysis, automation, and visualization techniques. This repository demonstrates practical Excel applications for business intelligence, reporting automation, and decision-making support.
-.-
-.
-..................................................................................................................................................................................
+..
 .
 # **Key Features**
 >>Advanced Formulas: INDEX-MATCH, SUMIFS, SUMPRODUCT, array formulas
@@ -21,9 +19,8 @@ A comprehensive collection of Microsoft Excel projects showcasing advanced data 
 >>Interactive Controls: Form controls, slicers, and timelines
 
 >>Professional Visualizations: Combo charts, waterfall charts, and gauges
+
 .
-.
-.................................................................................................................................................................................
 
 # **Technical Requirements**
 >>Microsoft Excel 2019 or newer (Microsoft 365 recommended)
@@ -34,7 +31,7 @@ A comprehensive collection of Microsoft Excel projects showcasing advanced data 
 
 
 .
-.................................................................................................................................................................................
+.
 
 # **Usage**
 >>Each project folder contains:
